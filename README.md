@@ -1,4 +1,4 @@
-# UN-Country-Profiles-Dashboard-Data-Analysis-Visualization
+# UN-Country-Profiles-Dashboard
 
 An interactive **data analysis and visualization dashboard** to explore socio-economic indicators of 200+ countries using UN development data.
 
