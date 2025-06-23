@@ -72,6 +72,6 @@ pip install -r requirements.txt
 ## Run the Streamlit app
 streamlit run app/main.py
 
-## 📷 Screenshots
-### 📌 Country Profile + Metric Charts
+🧠 Author & Contact
+Sandeep Undurthi M.S. in Computer Science @ Utah State University Email: [sandy.undurthi@gmail.com] GitHub: https://github.com/sandeepundurthi
 
