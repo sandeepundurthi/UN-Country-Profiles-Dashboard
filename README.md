@@ -40,7 +40,7 @@ Built with **Streamlit**, **Pandas**, and **Plotly**, this tool allows users to 
 ## 🚀 Live Demo
 
 🔗 [Click here to view the deployed app]([streamlit run app/main.py](https://un-country-profiles-dashboard-data-analysis-visualization-mmki.streamlit.app/))  
-> _Replace with your actual deployment URL after deploying_
+
 
 ---
 
