@@ -36,7 +36,15 @@ Built with **Streamlit**, **Pandas**, and **Plotly**, this tool allows users to 
 | **Streamlit Cloud** | Deployment and sharing        |
 
 ---
+## ☁️ Deploy to Streamlit Cloud
 
+1. Push project to GitHub
+2. Sign in to [Streamlit Cloud](https://streamlit.io/cloud)
+3. Click `New app` > Connect to GitHub repo
+4. Set file path to `app/streamlit_app.py`
+5. Click `Deploy`
+
+---
 ## 🚀 Live Demo
 
 🔗 [Click here to view the deployed app]([streamlit run app/main.py](https://un-country-profiles-dashboard-data-analysis-visualization-mmki.streamlit.app/))  
