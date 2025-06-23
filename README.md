@@ -63,8 +63,9 @@ UN-Country-Profiles-WebApp/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/un-country-dashboard.git
-cd un-country-dashboard
+[git clone https://github.com/yourusername/un-country-dashboard.git](https://github.com/sandeepundurthi/UN-Country-Profiles-Dashboard.git
+)
+cd UN-Country-Profiles-Dashboard
 
 ## Install dependencies
 pip install -r requirements.txt
